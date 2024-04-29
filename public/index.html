@@ -44,3 +44,31 @@
     </body>
     
 </html>
+
+        <script>
+    var sound1 = new buzz.sound("sound/glitch1.mp3");
+    var sound2 = new buzz.sound("sound/glitch2.mp3");
+    var sound3 = new buzz.sound("sound/glitch3.mp3");
+    var sound4 = new buzz.sound("sound/glitch1.mp3");
+    var sound5 = new buzz.sound("sound/glitch2.mp3");
+    var sound6 = new buzz.sound("sound/glitch3.mp3");
+    var sound7 = new buzz.sound("sound/glitch1.mp3");
+    var sound8 = new buzz.sound("sound/glitch2.mp3");
+    var sound9 = new buzz.sound("sound/glitch3.mp3");
+
+    window.onload = function() {
+        document.getElementById('img1').addEventListener('click', function () {sound1.play(); });  
+        document.getElementById('img2').addEventListener('click', function () {sound2.play(); });
+        document.getElementById('img3').addEventListener('click', function () {sound3.play(); });
+        document.getElementById('img4').addEventListener('click', function () {sound4.play(); });
+        document.getElementById('img5').addEventListener('click', function () {sound5.play(); }); 
+        document.getElementById('img6').addEventListener('click', function () {sound6.play(); }); 
+        document.getElementById('img7').addEventListener('click', function () {sound7.play(); }); 
+        document.getElementById('img8').addEventListener('click', function () {sound8.play(); }); 
+        document.getElementById('img9').addEventListener('click', function () {sound9.play(); });
+    }  
+        </script>   
+
+</body>
+
+</html>
