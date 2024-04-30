@@ -45,6 +45,21 @@
     
 </html>
 
+<script>
+
+
+    const icon_elements = Array.from (document.getElementsByTagName (`img`))
+    icon_elements.forEach ((element, index) => {
+        const audio = new Audio (`sounds/${ index }.mp3`)
+        element.onpointerover = () => {
+            element.src = `images/changed/${ index }.svg`
+        }
+        element.onpointerleave = () => {
+            element.src = `images/original/${ index }.svg`
+        }
+        element.onpointerdown = () => audio.play ()
+    })
+</script>
 <!-- <script>
     var sound1 = new buzz.sound("sound/glitch1.mp3");
     var sound2 = new buzz.sound("sound/glitch2.mp3");
