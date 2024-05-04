@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 194.9 190.08">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #d5ebd8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 1.33px;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: #fbdeeb;
+      }
+
+      .cls-6 {
+        fill: #7cc57a;
+      }
+
+      .cls-7 {
+        fill: #84c885;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        stroke: #9fd4a8;
+      }
+
+      .cls-4 {
+        stroke: #fbdeeb;
+        stroke-width: 1.77px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" y="0" width="194.9" height="190.08"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" y="0" width="194.9" height="190.08"/>
+    </clipPath>
+  </defs>
+  <g id="Artwork_15" data-name="Artwork 15">
+    <g class="cls-9">
+      <g class="cls-8">
+        <path class="cls-5" d="M194.01,95.04c0,52-43.23,94.15-96.56,94.15S.88,147.04.88,95.04,44.12.89,97.45.89s96.56,42.15,96.56,94.15"/>
+        <ellipse class="cls-4" cx="97.45" cy="95.04" rx="96.56" ry="94.15"/>
+        <path class="cls-6" d="M53.58,86.14l42.5,49.14-19.77-8.71-23.84-14.02c-20.44-18.52,1.11-26.42,1.11-26.42-5.76-19.77,12.69-18.59,12.69-18.59,3.69-22.14,19.92-10.62,19.92-10.62,12.17-19.92,22.43-.59,22.43-.59,19.48-8.93,20.51,11.21,20.51,11.21,18.3-1.18,12.69,19.18,12.69,19.18,28.92,11.81-13.43,34.83-13.43,34.83l-30.95,13.72"/>
+        <path class="cls-1" d="M53.58,86.14l42.5,49.14-19.77-8.71-23.84-14.02c-20.44-18.52,1.11-26.42,1.11-26.42-5.76-19.77,12.69-18.59,12.69-18.59,3.69-22.14,19.92-10.62,19.92-10.62,12.17-19.92,22.43-.59,22.43-.59,19.48-8.93,20.51,11.21,20.51,11.21,18.3-1.18,12.69,19.18,12.69,19.18,28.92,11.81-13.43,34.83-13.43,34.83l-30.95,13.72"/>
+        <polyline class="cls-6" points="66.63 67.85 95.99 133.96 85.75 55.6"/>
+        <polyline class="cls-1" points="66.63 67.85 95.99 133.96 85.75 55.6"/>
+        <polyline class="cls-6" points="108.72 56.63 97.8 132.92 129.97 66.52"/>
+        <polyline class="cls-1" points="108.72 56.63 97.8 132.92 129.97 66.52"/>
+        <line class="cls-6" x1="141.96" y1="87.18" x2="97.45" y2="135.29"/>
+        <line class="cls-1" x1="141.96" y1="87.18" x2="97.45" y2="135.29"/>
+        <path class="cls-7" d="M96.67,136.18l-13.72,1.62s-15.79-.22-4.13-9.3"/>
+        <path class="cls-3" d="M96.67,136.18l-13.72,1.62s-15.79-.22-4.13-9.3"/>
+        <path class="cls-7" d="M97.8,136.18l13.72,1.62s15.79-.22,4.13-9.3"/>
+        <path class="cls-3" d="M97.8,136.18l13.72,1.62s15.79-.22,4.13-9.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

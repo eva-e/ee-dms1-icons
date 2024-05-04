@@ -21,7 +21,7 @@
         </style>
     </head>
 
-    <body>
+    <!-- <body>
 
         <div class="row">
             <div class="image-container"><img src="img/cir.png" height="200" width="200"/></div>
@@ -43,7 +43,30 @@
         
     </body>
     
+</html> -->
+
+<body>
+    <div class="row">
+        <div class="image-container"><img src="img/original/0.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/1.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/2.svg" height="200" width="200"/></div>
+    </div>
+
+    <div class="row">
+        <div class="image-container"><img src="img/original/3.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/4.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/5.svg" height="200" width="200"/></div>
+        </div>
+
+    <div class="row">
+        <div class="image-container"><img src="img/original/6.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/7.svg" height="200" width="200"/></div>
+        <div class="image-container"><img src="img/original/8.svg" height="200" width="200"/></div>
+    </div>
+</body>
 </html>
+
+
 
 <script>
 
@@ -52,10 +75,10 @@
     icon_elements.forEach ((element, index) => {
         const audio = new Audio (`sounds/${ index }.mp3`)
         element.onpointerover = () => {
-            element.src = `images/changed/${ index }.svg`
+            element.src = `img/changed/${ index }.svg`
         }
         element.onpointerleave = () => {
-            element.src = `images/original/${ index }.svg`
+            element.src = `img/original/${ index }.svg`
         }
         element.onpointerdown = () => audio.play ()
     })
