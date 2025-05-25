@@ -12,7 +12,7 @@ Upon the successful completion of this course you will be able to:
 
 ## Assignment 2 > Digital Design Project 2 Icons - The assignment documentation can be found in my Deno blog
 
-<p align="left">Create a suite of nine unified and responsive graphic icons in a flat design style, arranged on a simple HTML5 webpage. Each icon must provide some audiovisual feedback in the form of an image swap, and a distinct, thematically appropriate sound effect when the user either hovers their mouse over, or clicks on, each icon. You must choose one of the following concepts to prompt the subject and aesthetics of your suite of icons: I have chosen Growth</p>
+<p align="left">Create a suite of nine unified and responsive graphic icons in a flat design style, arranged on a simple HTML5 webpage. Each icon must provide some audiovisual feedback in the form of an image swap, and a distinct, thematically appropriate sound effect when the user either hovers their mouse over, or clicks on, each icon. You must choose one of the following concepts to prompt the subject and aesthetics of your suite of icons: I have chosen Calm</p>
 
 - [Assignment 2](eva-dms1-icons.deno.dev/)
 - [My Blog](eva-dms-blog1.deno.dev/)
