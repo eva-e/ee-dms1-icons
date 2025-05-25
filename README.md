@@ -23,7 +23,7 @@ Upon the successful completion of this course you will be able to:
 
 ## Author Declaration
 
-<p align="left"> Assignment 1, 2, 3, 4: I have not used any AI tools or technologies.</p>
+<p align="left"> Assignment 1, 2, 3, 4: I have not used any AI tools to prepare this assessment.</p>
 
 ## Attributions
 
